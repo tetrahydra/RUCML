@@ -9,4 +9,8 @@ This project was first developed for "Subject Module in Computer Science" at Ros
 
 Feel free to fork, comment, patch and make it work for your project.
 
-Comments are welcomed at halim@ebyx.net
+Original report can be downloaded at
+https://rapidgator.net/file/2a6bd27d9ca037738edd683297dbfe98/RUC_CompSc_Spring2019_Neural_Network_and_Face_Recognition.pdf.html
+
+
+Comments or suggestions are welcomed at halim@ebyx.net
