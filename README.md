@@ -9,8 +9,9 @@ This project was first developed for "Subject Module in Computer Science" at Ros
 
 Feel free to fork, comment, patch and make it work for your project.
 
-Original report can be downloaded at
+Original report "Coding Neural Networks and training them for Face Recognition" can be downloaded at
 https://rapidgator.net/file/2a6bd27d9ca037738edd683297dbfe98/RUC_CompSc_Spring2019_Neural_Network_and_Face_Recognition.pdf.html
 
+* CNN will be added soon after the code has been abstracted, at the moment it is in a concrete form (fixed layers, etc)
 
-Comments or suggestions are welcomed at halim@ebyx.net
+Questions, comments or suggestions are welcomed at halim@ebyx.net
